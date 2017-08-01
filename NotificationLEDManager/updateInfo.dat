@@ -5,10 +5,10 @@
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
-}
+},
 "oldVersion": {
 	"lessThan": 1,
 	"reason": "版本过低，请尽快更新！"
-}
+},
 "threeFloor": True
 }
