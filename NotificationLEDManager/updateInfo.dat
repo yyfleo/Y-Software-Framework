@@ -1,14 +1,14 @@
 {
-"currentVersion": 2,
-"currentName": "1.0.0 Beta",
+"currentVersion": 1,
+"currentName": "1.0",
 "releaseNote": "首次发布",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
 },
 "oldVersion": {
-	"lessThan": 2,
+	"lessThan": 1,
 	"reason": "版本过低，请尽快更新！"
 },
-"threeFloor": True
+"threeFloor": False
 }
