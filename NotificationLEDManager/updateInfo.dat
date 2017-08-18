@@ -1,7 +1,7 @@
 {
-"currentVersion": 2,
-"currentName": "1.0 ANB",
-"releaseNote": "首次发布",
+"currentVersion": 3,
+"currentName": "1.1 Beta",
+"releaseNote": "本次更新内容：\n1.将LED灯的颜色的描述改为中文\n2.在添加规则时多了些提示\n3.优化检查更新的算法",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
