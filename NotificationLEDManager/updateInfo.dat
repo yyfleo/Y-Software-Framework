@@ -1,14 +1,14 @@
 {
-"currentVersion": 3,
-"currentName": "1.1 Beta",
-"releaseNote": "本次更新内容：\n1.将LED灯的颜色的描述改为中文\n2.在添加规则时多了些提示\n3.优化检查更新的算法",
+"currentVersion": 4,
+"currentName": "1.2 ANB",
+"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n=====主要更新=====\n1.增加了miui等深度优化系统将软件的LED权限关闭的解决方法（感谢@a173197496 @飞舞的冰龙）\n\n=====程序优化及Bug修复=====\n2.优化更新逻辑\n3.优化申请权限和保存逻辑\n4.修复没有设置文件时移除LED设置出错的Bug\n5.修复设置文件可以设置为空的Bug\n\n=====UI更新=====\n6.对话框确认按钮的提示修改\n7.将所有的“程序”改为“软件”\n8.*加载时增加进度条\n*：有很大几率显示不出来",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
 },
 "oldVersion": {
-	"lessThan": 2,
-	"reason": "版本过低，请尽快更新！"
+	"lessThan": 4,
+	"reason": "新ANB版本已发布，请尽快更新！"
 },
 "threeFloor": False
 }
