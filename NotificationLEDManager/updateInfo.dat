@@ -7,8 +7,8 @@
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
 },
 "oldVersion": {
-	"lessThan": 4,
-	"reason": "你的版本过于老旧。新版本已发布，请尽快更新！"
+	"lessThan": 7,
+	"reason": "新ANB版本已发布，请尽快更新！"
 },
 "threeFloor": False
 }
