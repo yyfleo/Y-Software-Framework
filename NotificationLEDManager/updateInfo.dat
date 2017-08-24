@@ -1,7 +1,7 @@
 {
-"currentVersion": 7,
-"currentName": "1.5 ANB",
-"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n=====主要更新======\n1.今天开发者也遇到了另一个会导致软件不起作用的原因，所以更新了解决方法（这也许是 @飞舞的冰龙 真正不能用的原因吧！）\n2.增加服务是否运行的检查\n\n=====因为主要更新而改动的地方=====\n3.运行/停止服务时增加提示\n4.更改运行/停止服务时的逻辑\n\n=====其他=====\n5.更改一些提示",
+"currentVersion": 8,
+"currentName": "1.6 ANB",
+"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n1.现在只在WiFi下检查更新了！\n2.增加了清除软件所有通知的按钮\n3.修改运行和停止服务的四条提示",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
