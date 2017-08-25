@@ -1,13 +1,13 @@
 {
-"currentVersion": 8,
-"currentName": "1.6 ANB",
-"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n1.现在只在WiFi下检查更新了！\n2.增加了清除软件所有通知的按钮\n3.修改运行和停止服务的四条提示",
+"currentVersion": 10,
+"currentName": "2.0 ANB",
+"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n1.将所有的解决方法归类进“软件没有起作用？点击这里”按钮里，使主页面看起来不那么凌乱\n2.增加了“更改所有没有设置的软件的LED灯颜色”（感谢 @何金牛提出的宝贵建议）\n3.增加了数据统计模块，随之而来多了一些权限：查看网络连接，读取手机状态和身份，查看WLAN连接",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
 },
 "oldVersion": {
-	"lessThan": 7,
+	"lessThan": 10,
 	"reason": "新ANB版本已发布，请尽快更新！"
 },
 "threeFloor": False
