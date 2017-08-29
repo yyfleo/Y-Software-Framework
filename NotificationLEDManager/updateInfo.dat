@@ -1,7 +1,7 @@
 {
-"currentVersion": 11,
-"currentName": "2.1 ANB",
-"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n=====主要更新=====\n1.现在可以根据特定的关键词设置颜色了（感谢 @Cp0204 提出的宝贵建议）\n\n=====因为主要更新而做出的改动=====\n2.更改保存设置的逻辑\n\n=====其他=====\n3.修复一个检查更新时会发生的错误\n4.修改设置界面的UI",
+"currentVersion": 12,
+"currentName": "2.1.5 ANB",
+"releaseNote": "=====建议2.1 ANB版本的用户尽快更新到此版本=====\n-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n1.修复了2.1 ANB版本没设定关键词时会无法正常使用的bug",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
