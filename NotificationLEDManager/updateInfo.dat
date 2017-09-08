@@ -1,6 +1,6 @@
 {
-"currentVersion": 13,
-"currentName": "2.1.6 ANB",
+"currentVersion": 14,
+"currentName": "2.2 ANB",
 "releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n=====主要更新=====\n1.彻底修复了关键词设置导致LED不亮的问题\n2.现在删除原通知，软件发出的通知也能自动删除了！\n\n=====其他=====\n3.更新设置界面\n4.更新软件没有起作用的解决方法",
 "urls": {
 	"name": "酷安",
