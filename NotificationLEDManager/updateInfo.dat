@@ -1,7 +1,7 @@
 {
 "currentVersion": 13,
 "currentName": "2.1.6 ANB",
-"releaseNote": "=====建议2.1 ANB版本的用户尽快更新到此版本=====\n-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n1.修复了2.1 ANB版本没设定关键词时会无法正常使用的Bug（2.1.5 ANB）\n2.修复了一个通知没有Icon会无法发送通知的Bug（实验性）\n3.修复了没权限更新时退出软件会出错的Bug",
+"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n=====主要更新=====\n1.彻底修复了关键词设置导致LED不亮的问题\n2.现在删除原通知，软件发出的通知也能自动删除了！\n\n=====其他=====\n3.更新设置界面\n4.更新软件没有起作用的解决方法",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
