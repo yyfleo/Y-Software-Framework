@@ -1,7 +1,7 @@
 {
-"currentVersion": 14,
-"currentName": "2.2 ANB",
-"releaseNote": "-----Almost No Bugs(ANB)版本，可日常使用-----\n本次更新内容：\n=====主要更新=====\n1.彻底修复了关键词设置导致LED不亮的问题\n2.现在删除原通知，软件发出的通知也能自动删除了！\n\n=====其他=====\n3.更新设置界面\n4.更新软件没有起作用的解决方法",
+"currentVersion": 15,
+"currentName": "3.0 Beta",
+"releaseNote": "-----Beta版本，可体验新功能，但可能会有bug-----\n本次更新内容：\n=====主要更新=====\n1.现在LED可以不同通知一起闪烁了，如果设置的通知颜色不同，就没有单色闪光灯了（感谢@Kanna_marin提出的建议）\n\n=====其他=====\n2.更新界面",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
