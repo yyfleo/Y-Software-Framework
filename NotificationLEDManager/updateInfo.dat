@@ -1,7 +1,7 @@
 {
-"currentVersion": 15,
-"currentName": "3.0 Beta",
-"releaseNote": "-----Beta版本，可体验新功能，但可能会有bug-----\n本次更新内容：\n=====主要更新=====\n1.现在LED可以不同通知一起闪烁了，如果设置的通知颜色不同，就没有单色闪光灯了（感谢@Kanna_marin提出的建议）\n\n=====其他=====\n2.更新界面",
+"currentVersion": 17,
+"currentName": "3.2 Beta",
+"releaseNote": "-----Beta版本，可体验新功能，但可能会有bug-----\n本次更新内容：\n=====主要更新=====\n1.修复了上一版本的fc（崩溃）（建议3.0 Beta尽快升级到该版本）\n2.降低了耗电量\n3.现在在原生系统中软件不会发浮动通知了（测试）\n4.增加Beta版本的提示\n\n=====其他=====\n5.增加支付宝捐赠方式",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
