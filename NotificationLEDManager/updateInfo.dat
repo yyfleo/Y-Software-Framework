@@ -1,7 +1,7 @@
 {
-"currentVersion": 19,
-"currentName": "3.4 ANB",
-"releaseNote": "-----ANB(Almost No Bugs)版本，可正常使用-----\n本次更新内容：\n1.现在通知监听服务可以在初始化时获取已有的通知并处理了！\n2.优化代码逻辑，整理代码",
+"currentVersion": 20,
+"currentName": "3.5 Beta",
+"releaseNote": "-----Beta版本，可尝试新功能，但可能会有Bug-----\n本次更新内容：\n1.现在可以尝试自动修复服务了！（测试）\n2.优化代码逻辑，整理代码",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
