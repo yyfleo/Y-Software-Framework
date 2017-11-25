@@ -1,7 +1,7 @@
 {
-"currentVersion": 20,
-"currentName": "3.5 Beta",
-"releaseNote": "-----Beta版本，可尝试新功能，但可能会有Bug-----\n本次更新内容：\n1.现在可以尝试自动修复服务了！（测试）\n2.优化代码逻辑，整理代码",
+"currentVersion": 21,
+"currentName": "3.6 Beta",
+"releaseNote": "-----Beta版本，可尝试新功能，但可能会有Bug-----\n本次更新内容：\n1.将自动修复服务的按钮一直设为可用\n2.修复了重复开关服务而无法检测服务是否启用的bug\n3.修复了通知监听器可用时发送的通知无法显示全的问题\n4.将通知监听器可用时发送的通知和测试通知设为可以在锁屏上显示",
 "urls": {
 	"name": "酷安",
 	"url": "http://www.coolapk.com/apk/com.yyfleo.NotificationLEDManager"
